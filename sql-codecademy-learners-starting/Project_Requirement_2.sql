@@ -1,4 +1,4 @@
-use sqlite_project
+use sqlite_project;
 select *
 from users
 limit 200;
